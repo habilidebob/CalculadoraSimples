@@ -1,0 +1,10 @@
+C:\Users\estevao.roliveira\source\repos\CalculadoraSimples\CalculadoraSimples\bin\Debug\CalculadoraSimples.exe.config
+C:\Users\estevao.roliveira\source\repos\CalculadoraSimples\CalculadoraSimples\bin\Debug\CalculadoraSimples.exe
+C:\Users\estevao.roliveira\source\repos\CalculadoraSimples\CalculadoraSimples\bin\Debug\CalculadoraSimples.pdb
+C:\Users\estevao.roliveira\source\repos\CalculadoraSimples\CalculadoraSimples\obj\Debug\CalculadoraSimples.csproj.AssemblyReference.cache
+C:\Users\estevao.roliveira\source\repos\CalculadoraSimples\CalculadoraSimples\obj\Debug\CalculadoraSimples.Form1.resources
+C:\Users\estevao.roliveira\source\repos\CalculadoraSimples\CalculadoraSimples\obj\Debug\CalculadoraSimples.Properties.Resources.resources
+C:\Users\estevao.roliveira\source\repos\CalculadoraSimples\CalculadoraSimples\obj\Debug\CalculadoraSimples.csproj.GenerateResource.cache
+C:\Users\estevao.roliveira\source\repos\CalculadoraSimples\CalculadoraSimples\obj\Debug\CalculadoraSimples.csproj.CoreCompileInputs.cache
+C:\Users\estevao.roliveira\source\repos\CalculadoraSimples\CalculadoraSimples\obj\Debug\CalculadoraSimples.exe
+C:\Users\estevao.roliveira\source\repos\CalculadoraSimples\CalculadoraSimples\obj\Debug\CalculadoraSimples.pdb
