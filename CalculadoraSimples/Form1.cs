@@ -27,10 +27,12 @@ namespace CalculadoraSimples
             // Verificar qual opc está marcada:
             if (rbSoma.Checked)
             {
+                // Realizar a soma e mostrar no txbResultado
                 txbResultado.Text = (n1 + n2).ToString();
             }
             else if (rbSubtracao.Checked)
             {
+                // Realizar a subtração e mostrar no txbResultado
                 txbResultado.Text = (n1 - n2).ToString();
             }
             else if (rbMultiplicacao.Checked)
